@@ -1,5 +1,7 @@
 AI250 BXR Firmware
-New optional firmware available
+Firmware v1.3 is now available.
+
+Adding 1.3. When in LFO mode, when a clock is plugged into the pitch CV input, the Pitch knob becomes a multiplier/divider knob, allowing the internal LFO to sync to things.
 
 Firmware v1.2 is now available.
 
